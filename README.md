@@ -8,3 +8,4 @@
     implementation 'com.google.android.material:material:1.6.0'
 ```
 # project images
+<img src="https://github.com/AtulRaghuvanshi73/GreetingApp/assets/113249077/787b9c18-0cc7-4e1c-8e7e-aedf05032651" alt="Screenshot" width="300" height="533">
